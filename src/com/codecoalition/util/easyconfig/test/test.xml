@@ -1,0 +1,7 @@
+<root>
+	<entry1 param1="one" param2="two">Entry One Content</entry1>
+	<entry2>
+		<innerentry param1="three" param2="four">Inner Entry Content</innerentry>
+		<innerentry2>Inner Entry 2</innerentry2>
+	</entry2>
+</root>
